@@ -1,4 +1,4 @@
-# Project Name
+# Housing Price Prediction in Australia
 
 > Surprise Housing is a US-based housing company, that decicded to enter the Australian market. The comapany aims to utilize data science to purchase house on discount to its intensic value and flip them at a higher price. It collected 1460 samples of house sales in Australia, and we aim to utilize it to generate a regression model to predict sale price. In this project, we will use Lasso and Ridge regression methods to overcome overfitting issue in the simple regression model.
 
